@@ -1,0 +1,2 @@
+# Arduino-AD9850-30MHZ-DDS-Signal-Generator-
+An Precession Signal generator is very easy and affordable make using an arduino and dds synthesizer (ad9850) .  You can make decent 0 -30 MHZ frequency Signal generator only in 12$ . If you are pro over clocker then 40MHZ in same price .  You will need frequency generator if you are a amateur radio guy or hobbyist or professional electronic guy.    Here's  Part list you will need 1. Arduino Pro mini 2.AD9850  (DDS Synthesizer) 3.16×2 LCD Display  ( Hitachi hd 44780 ) 4.Rotary Encoder
